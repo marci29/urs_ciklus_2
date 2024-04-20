@@ -1,4 +1,4 @@
-/* 3. Napišite programski kod za inicijalizaciju i pokretanje A/D pretvornika na ATmega4809 mikrokontroleru u sljedećoj konfiguraciji:
+/* 2. Napišite programski kod za inicijalizaciju i pokretanje A/D pretvornika na ATmega4809 mikrokontroleru u sljedećoj konfiguraciji:
 
 	- interni izvor referentnog napona 2.5 V
 	- 10-bitna razlučivost
