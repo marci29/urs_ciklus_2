@@ -1,0 +1,6 @@
+15. Zaokružiti tvrdnje koje su točne za mikrokontroler ATmega4809:
+a) Registri opće namjene R26-R31 mogu se koristiti za 8 i 16-bitne operacije.
+b) Strojna instrukcija za dohvat programskih instrukcija (LPM) Flash memoriju vidi od 0x0000.
+c) Moguće je izvoditi instrukcije pohranjene u SRAM memoriji.
+d) Operacija dodavanja nove vrijednosti na funkcijski stog (push) uvećava vrijednost stack pointera.
+e) Programiranje FUSE bitova moguće je samo putem UDPI sučelja.
