@@ -1,0 +1,11 @@
+10. Zaokružite točno (ATMega 4809 mikrokontroler):
+
+a) Program koji se izvodi iz Boot Section dijela Flash memorije može reprogramirati Application Code i Application Data dijelove Flash memorije.
+
+b) Na ATMega 4809 mikrokontroleru strojne instrukcije za dohvat podataka se vide od početne adrese 0x4000.
+
+c) Flash memoriju moguće je reprogramirati na razine okteta na proizvoljnoj lokaciji.
+
+d) USERROW je posebni dio Flash memorije za upis korisničke konfiguracije firmwarea.
+
+e) Interni 32 KHz Ultra Low-Power Oscilator (OSCULP32K) služi za implementaciju RTC (Real Time Clock) za precizno mjerenje vremena.
