@@ -1,0 +1,14 @@
+4. Zaokružite točne tvrdnje koje se odnose na ATmega4809 mikrokontroler (moguće više točnih odgovora, od 1 do 5 točnih odgovora, netočni odgovori poništavaju točne): 
+
+(a) Programiranje FUSE bitova (za ATmega4809 mikrokontroler) moguće je od strane programa koji se izvodi na CPU
+
+(b) Registri opće namjene ATmega4809 mikrokontrolera R26-R31 mogu se koristiti za 8 i 16 bitne operacije
+
+(c) LOCKBIT fuse (za ATmega4809 mikrokontroler) trajno onemogućava ponovno
+programiranje mikrokontrolera putem UDPI sučelja
+
+(d) Interni 32 KHz Ultra Low-Power Oscillator (OSCULP32K) služi za implementaciju
+RTC (Real-Time Clock) za precizno mjerenje vremena (ATmega4809 mikrokontroler)
+
+(e) Na ATmega4809 mikrokontroleru High Priority (Level 1) prekid može prekinuti
+izvođenje Normal Priority (Level 0) prekida
